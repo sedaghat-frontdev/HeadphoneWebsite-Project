@@ -7,19 +7,19 @@
 
 A Headphone Website project using HTML and CSS3.
 
-<img width="1900" height="968" alt="Image" src="https://github.com/user-attachments/assets/8377a1eb-c578-40e6-863f-7136691fb879" />
+<img width="1900" height="968" alt="Image" src="https://github.com/user-attachments/assets/7b7810dc-e9d8-4a66-bcb9-4d891576fbd3" />
 <br/>
-<img width="1898" height="971" alt="Image" src="https://github.com/user-attachments/assets/42847307-ecec-4e1d-80a2-8a6b371deb2f" />
+<img width="1898" height="971" alt="Image" src="https://github.com/user-attachments/assets/a08c0df8-4b08-4528-b2c1-0265e651fbef" />
 <br/>
-<img width="1898" height="970" alt="Image" src="https://github.com/user-attachments/assets/92efedeb-6578-45a9-abc7-c79ce6fd8bda" />
+<img width="1898" height="970" alt="Image" src="https://github.com/user-attachments/assets/8d2e8619-b7ec-4b8d-8e16-fc9a87c79010" />
 <br/>
-<img width="1897" height="968" alt="Image" src="https://github.com/user-attachments/assets/1b703c95-f47a-45a5-94d8-1d5713c80efc" />
+<img width="1897" height="968" alt="Image" src="https://github.com/user-attachments/assets/ee22efcf-ee6d-4433-8b34-242d98f07106" />
 <br/>
-<img width="1897" height="968" alt="Image" src="https://github.com/user-attachments/assets/1272bcde-d84d-40ab-9773-8d6d26e68901" />
+<img width="1897" height="968" alt="Image" src="https://github.com/user-attachments/assets/1d690500-286b-44aa-bd58-66e93425fca0" />
 <br/>
-<img width="1895" height="970" alt="Image" src="https://github.com/user-attachments/assets/270bd473-1491-41e6-8a60-4846f7ef1295" />
+<img width="1895" height="970" alt="Image" src="https://github.com/user-attachments/assets/39cd6cb2-563d-4b4e-aeba-ff95ce00eb92" />
 <br/>
-<img width="1897" height="965" alt="Image" src="https://github.com/user-attachments/assets/62ba0ef5-6175-4f1d-8460-77d125e9b4be" />
+<img width="1897" height="965" alt="Image" src="https://github.com/user-attachments/assets/5d282349-0823-43d2-9296-c56dce453009" />
 <br/>
 <br/>
 <p align="center">
