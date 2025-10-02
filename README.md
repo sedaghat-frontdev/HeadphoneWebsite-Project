@@ -19,7 +19,7 @@ A Headphone Website project using HTML and CSS3.
 <br/>
 <img width="1895" height="970" alt="Image" src="https://github.com/user-attachments/assets/39cd6cb2-563d-4b4e-aeba-ff95ce00eb92" />
 <br/>
-<img width="1897" height="965" alt="Image" src="https://github.com/user-attachments/assets/5d282349-0823-43d2-9296-c56dce453009" />
+<img width="1897" height="968" alt="Image" src="https://github.com/user-attachments/assets/01456354-8d17-4918-8797-aa8d59219dc3" />
 <br/>
 <br/>
 <p align="center">
